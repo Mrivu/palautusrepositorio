@@ -1,2 +1,2 @@
 # palautusrepositorio
-![Ohtuvarasto](https://github.com/Mrivu/ohtuvarasto)
+[Ohtuvarasto](https://github.com/Mrivu/ohtuvarasto)
