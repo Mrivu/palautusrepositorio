@@ -10,6 +10,6 @@ class Player:
 
     
     def __str__(self):
-        text = f"""{self.name}, Nat:{self.nationality} A:{self.assists} G:{self.goals} Team:{self.team} Games:{self.games} Id:{self.id}"""
+        text = f"""{self.name:20} Teams:{self.team:15} G:{self.goals} + A:{self.assists} = {self.goals+self.assists}"""
         return text
 
