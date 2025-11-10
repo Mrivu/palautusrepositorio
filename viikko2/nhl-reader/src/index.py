@@ -11,7 +11,5 @@ def main():
     console = Console()
     console.print(players)
 
-    ## SEASONS ALSO
-
 if __name__ == "__main__":
     main()
